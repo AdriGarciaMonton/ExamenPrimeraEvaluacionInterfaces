@@ -1,0 +1,27 @@
+.botonGetMe{
+	-fx-background-color: orange;
+}
+
+.botonGetMe:hover {
+    -fx-background-color: #9DFC02;
+}
+
+.logo{
+-fx-font-family: "Poiret One";
+-fx-font-size: 25.0;
+}
+
+.estiloLetra{
+	-fx-font-family:"Poiret One";
+	-fx-font-size: 15;
+	
+}
+
+.fondoADosColores {
+	-fx-background-color:linear-gradient(#FC6802, #9DFC02);
+}
+
+.fondoBoton{
+	-fx-background-color: #B24623;
+	-fx-background-radius: 15px;
+}
